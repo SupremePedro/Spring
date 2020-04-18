@@ -15,6 +15,7 @@
         <module>Spring xml config</module>
         <module>Dependency injection Constructor XML</module>
         <module>Dependency injection Setter XML</module>
+        <module>ProperiesFile + XML</module>
     </modules>
 
 </project>
